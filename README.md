@@ -2,10 +2,12 @@ Filtro de Articulos en el cual el buscador pregunta primero que desea filtrar, s
 
 Tambien puede buscar mediante valores ingresados en los prompt. Ejemplo
 
-Ingrese el criterio de filtrado (marca, precio, tipo, talla, sexo) --> tipo
-Ingrese el valor a filtrar  -->  falda
+- Ingrese el criterio de filtrado (marca, precio, tipo, talla, sexo) --> tipo
+
+- Ingrese el valor a filtrar  -->  falda
 
 Mostrara como resultado
+===================================================
 Falda - 10065- 84- M- Mujer- MarcaB
 
 Falda - 91727- 91- M- Mujer- MarcaB
